@@ -1,0 +1,12 @@
+{
+    "manifest_version" : 3,
+    "version" : "1",
+    "name" : "Lead Tracker",
+    "action" : {
+        "default_popup" : "chrome_extension.html",
+        "default_icon" : "thumbnail-4.webp"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}

@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+}
+
+#text_box {
+    display: block;
+    border-radius: 0px;
+    border-width: 2px;
+    border-color: grey;
+    border-style: solid;
+    padding: 5px;
+    width: 500px;
+    margin-bottom: 10px;
+
+}
+
+#save-input {
+    padding: 4px;
+    color: white;
+    background-color: rgb(2, 155, 2);
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 2px;
+    border-color: rgb(19, 167, 19);
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+ul{
+    padding: 0px;
+    margin-top: 20px;
+
+}
+
+li{
+    margin-top: 5px;
+}
+
+a{
+    color: rgb(19, 167, 19);
+}
+
+#deletee-btn{
+    padding: 4px;
+    color: rgb(19, 167, 19);
+    background-color: white;
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 2px;
+    border-color: rgb(19, 167, 19);
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#tab-btn{
+    padding: 4px;
+    background-color: rgb(19, 167, 19);
+    color: white;
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 2px;
+    border-color: rgb(19, 167, 19);
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
